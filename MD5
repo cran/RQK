@@ -1,0 +1,17 @@
+6a08edc6245aff1285153256860661ea *DESCRIPTION
+701565e06a1d0829f3705e73f0d9c7fe *LICENSE
+65b026f5ae2a10dddf6d0ba522c01034 *NAMESPACE
+c1cedf9b9e2c734877b82d77b7941483 *R/RQK.R
+6b08a95cc9ec113ddceab22eb6695646 *R/RcppExports.R
+6af8e7644a2c366a25339b1923c9a048 *build/partial.rdb
+bd0e47825da4489166a522d95d755948 *inst/CITATION
+65e659ef989573fd538406ccc4d7d7ae *man/RQK.Rd
+7c289fcdcbfb73269cb9c9da0494b0a6 *man/initial_lengthscale.Rd
+c8d4b95ba83fcbf1f63ffd3fedceace1 *man/predict.RQK.Rd
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars.win
+e3121af066af62659059ef074cc34cf1 *src/RcppExports.cpp
+d87086ed4d1f3cbd274e1f099fec291b *src/kdtree.h
+b28afe2990cc5ac92c9dcbab0cda39a7 *src/rqk_core.cpp
+d7706fa3e6c95a1549d310c6273a59f2 *tests/testthat.R
+34c5913838648c94093b20560edb86c7 *tests/testthat/test-rqk.R

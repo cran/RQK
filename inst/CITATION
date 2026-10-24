@@ -1,0 +1,12 @@
+bibentry(
+  bibtype = "Misc",
+  key = "song2026rational",
+  title = "Rational Quadratic Kriging",
+  author = c(
+    person("Difan", "Song"),
+    person(c("V.", "Roshan"), "Joseph")
+  ),
+  year = "2026",
+  howpublished = "arXiv preprint arXiv:2610.18077",
+  doi = "10.48550/arXiv.2610.18077"
+)

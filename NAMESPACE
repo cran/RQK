@@ -1,0 +1,7 @@
+useDynLib(RQK, .registration = TRUE)
+importFrom(Rcpp, evalCpp)
+import(nloptr)
+
+export(RQK)
+export(initial_lengthscale)
+S3method(predict,RQK)
